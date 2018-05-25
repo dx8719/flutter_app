@@ -1,4 +1,4 @@
-# flutter_app
+# flutter_app [![Build Status](https://api.cirrus-ci.com/github/csmac3144/flutter_app.svg)](https://cirrus-ci.com/github/csmac3144/flutter_app)
 
 A new Flutter application.
 
